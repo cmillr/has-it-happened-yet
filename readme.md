@@ -11,6 +11,12 @@ This theme is mobile-device ready and it looks good on screens of all sizes.
 Oh, and the whole thing is 30 lines of pretty-readable code, mostly HTML and CSS.
 
 
+## Screenshots
+
+![Phone Screenshot](https://raw.github.com/cmillr/has-it-happened-yet/master/phone-screenshot.png)
+![Desktop Screenshot](https://raw.github.com/cmillr/has-it-happened-yet/master/desktop-screenshot.png)
+
+
 ## Directions
 
 After installing and activating this theme, there are a couple items to configure:
