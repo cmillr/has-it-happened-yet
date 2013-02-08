@@ -14,10 +14,10 @@ h2, p:first-of-type { font-size: 28px; font-weight: 300; margin: 36px 0 0 0; }
 p { margin: 24px 0 0 0; font-size: 18px; }
 small { font-size: 14px; color: #888; display: block; position: absolute; bottom: -27px; right: 0px; }
 @media (max-width: 700px) {
-	    html { background: #fff; }
-		    body { width: 90%; padding: 1em 5%; margin-top: 0; }
-			    h1, h2, p { margin: 18px 0; }
-				    small { position: static; color: #aaa; font-style: italic; }
+	html { background: #fff; }
+	body { width: 90%; padding: 1em 5%; margin-top: 0; }
+	h1, h2, p { margin: 18px 0; }
+	small { position: static; color: #aaa; font-style: italic; }
 }
 </style>
 <?php wp_head(); ?>
@@ -31,7 +31,6 @@ small { font-size: 14px; color: #888; display: block; position: absolute; bottom
 <small>Last update: <?php the_time('F j') ?> at <?php the_time('g:i a'); ?></small>
 
 <?php endif; ?>
-
 
 </body>
 </html>
