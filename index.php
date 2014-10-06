@@ -28,7 +28,7 @@ small { font-size: 14px; color: #888; display: block; position: absolute; bottom
 
 <h1><?php the_title(); ?></h1>
 <?php the_content(); ?>
-<small>Last update: <?php the_time('F j') ?> at <?php the_time('g:i a'); ?></small>
+<small>Last update: <?php the_time('F j, Y \a\t g:i a') ?></small>
 
 <?php endif; ?>
 
